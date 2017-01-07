@@ -1,0 +1,10 @@
+dog-animal,has four legs,bark
+puppy-animal,has four legs,bark
+cat-animal,has four legs,meow
+human-living being who has inteligence and powerfull thinking ability
+sweet-tasty sugary food
+stewardess-waiteress in flight
+hard-can't do easily
+yummy-tasty food
+delecious-tasty food
+tasty-tasty food
